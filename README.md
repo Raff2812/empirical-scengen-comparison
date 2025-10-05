@@ -82,7 +82,7 @@ L’analisi viene condotta lungo tre dimensioni complementari:
 ### Dipendenze necessarie
 Per utilizzare la repository è necessario creare un ambiente virtuale con **Python 3.8** e installare le dipendenze richieste tramite il comando:
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ### Utilizzo del framework per nuove analisi
