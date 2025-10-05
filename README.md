@@ -19,8 +19,6 @@ L’analisi viene condotta lungo tre dimensioni complementari:
 │   └── plotting           # Grafici visualizzazione clusters
 │       └── clusters.svg
 │
-│      
-│
 ├── datasets               # Dataset generati per l’analisi
 │   ├── critical_dataset.csv
 │   ├── full_dataset.csv
