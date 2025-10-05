@@ -1,0 +1,86 @@
+{
+  "ScenarioFuzzLLM": {
+    "total_scenarios": 66,
+    "num_scen_with_collision": 21,
+    "num_scen_with_violation": 36,
+    "cluster_count": 4,
+    "Criticity": {
+      "CollisionRate": 0.3181818181818182,
+      "ViolationRate": 0.5454545454545454,
+      "CompletionRate": 0.8468258500675397,
+      "RFS": 0.9565249580852133,
+      "TS": 0.7846888888888889,
+      "C": 0.3794528842607025,
+      "LatentFactors": {
+        "TTC": 0.502297569387862,
+        "MDBV": 3.5149461534475663,
+        "TET": 10.472888888888889
+      }
+    },
+    "Diversity": {
+      "Coverage": 1.0,
+      "Entropy": 0.9299178288973622,
+      "D": 0.9649589144486811
+    },
+    "Effectiveness": {
+      "CriticalScenarios": 57,
+      "E": 0.8636363636363636
+    }
+  },
+  "SimADFuzz": {
+    "total_scenarios": 95,
+    "num_scen_with_collision": 11,
+    "num_scen_with_violation": 3,
+    "cluster_count": 2,
+    "Criticity": {
+      "CollisionRate": 0.11578947368421053,
+      "ViolationRate": 0.031578947368421054,
+      "CompletionRate": 0.7357969506678471,
+      "RFS": 0.9282905565078333,
+      "TS": 0.9594166666666666,
+      "C": 0.14534503149378852,
+      "LatentFactors": {
+        "TTC": 0.5160618448739717,
+        "MDBV": 3.520787988300473,
+        "TET": 7.802380952380952
+      }
+    },
+    "Diversity": {
+      "Coverage": 0.5,
+      "Entropy": 0.4701429793353155,
+      "D": 0.4850714896676578
+    },
+    "Effectiveness": {
+      "CriticalScenarios": 14,
+      "E": 0.14736842105263157
+    }
+  },
+  "TMFuzzer": {
+    "total_scenarios": 87,
+    "num_scen_with_collision": 25,
+    "num_scen_with_violation": 26,
+    "cluster_count": 4,
+    "Criticity": {
+      "CollisionRate": 0.28735632183908044,
+      "ViolationRate": 0.2988505747126437,
+      "CompletionRate": 0.7849474956979521,
+      "RFS": 0.9594084030083997,
+      "TS": 0.7827891156462585,
+      "C": 0.2960076193954311,
+      "LatentFactors": {
+        "TTC": 0.4223675336298638,
+        "MDBV": 2.7550083592100134,
+        "TET": 10.681935483870967
+      }
+    },
+    "Diversity": {
+      "Coverage": 1.0,
+      "Entropy": 0.945120407472074,
+      "D": 0.9730602037360371
+    },
+    "Effectiveness": {
+      "CriticalScenarios": 51,
+      "E": 0.5862068965517241
+    }
+  }
+}
