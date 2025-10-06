@@ -7,7 +7,7 @@ L’analisi viene condotta lungo tre dimensioni complementari:
 
 2. **Diversità** ossia il grado di varietà e copertura delle condizioni generate.
 
-3. **Efficacia** intesa come l'effettiva capacità degli scenari di mettere in crisi l’ADS.
+3. **Efficacia** intesa come la capacità di concentrare gli scenari critici in grado di mettere in crisi l’ADS.
 ---
 ## Struttura della repository
 
